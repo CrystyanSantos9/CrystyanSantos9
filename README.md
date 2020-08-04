@@ -14,7 +14,7 @@ and other contents from my graduate in
 
 Would you like to conect with me?
 
-[Linkedin Badge](https://www.linkedin.com/in/crystyan-santos-56a3943b/)
+[![Linkedin Badge](https://www.linkedin.com/in/crystyan-santos-56a3943b/)
 
 
 
