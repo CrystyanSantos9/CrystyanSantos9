@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Crystyan Santos i'm from Brazil (🇧🇷). I've been studying since at last year to improve my web dev skills. I love programing and i intend to live by that way. I’m currently working on [ENVRYON Cloud Experts](https://www.envyron.com/). 
+My name is Crystyan Santos i'm from Brazil (🇧🇷). I've been studying since at last year to improve my web dev skills. I love programing and i intend to live by that way. I’m currently working on [Allied Brasil](https://www.alliedbrasil.com.br/). 
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and  drink a cold beer with my friends (🍺).
 
