@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Crystyan Santos i'm from Brazil (🇧🇷). I've been studying since at last year to improve my web dev skills. I love programing and i intend to live by that way. I’m currently working on [Allied Brasil](https://www.alliedbrasil.com.br/). 
+My name is Crystyan Santos i'm from Brazil (🇧🇷). I've been studying web developr and other tecnologies tools for about 3 yaers to improve my programation skills. I love programing and tecnologies and more, i really like to learn about the things works and how we can make our lives more productive with tecnologie. I’m currently working on [Allied Brasil](https://www.alliedbrasil.com.br/) as TI System Analyst and and always studying to reach my dream of be an awesome programer in the near future. 
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and  drink a cold beer with my friends (🍺).
 
@@ -9,6 +9,8 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 ## REACT 
 ## NEXT 
 ## NODE 
+## AWS
+## DOCKER 
 and other contents from my graduate in 
 ## System Analysis
 
