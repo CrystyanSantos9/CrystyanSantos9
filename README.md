@@ -6,6 +6,8 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 [![Crystyan GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystyanSantos9&theme=dark&show_icons=true)](https://github.com/CrystyanSantos9/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanSantos9)](https://github.com/CrystyanSantos9/github-readme-stats)
+
 - 🌱 I’m currently learning 
 ## JS 
 ## REACT 
@@ -21,6 +23,6 @@ Would you like to conect with me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/crystyan-santos-56a3943b/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
