@@ -6,7 +6,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 
 [![Crystyan GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystyanSantos9&theme=dark&show_icons=true)](https://github.com/CrystyanSantos9/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanSantos9)](https://github.com/CrystyanSantos9&layout=compact/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanSantos9&layout=compact)](https://github.com/CrystyanSantos9/github-readme-stats)
 
 - 🌱 I’m currently learning 
 ## JS 
