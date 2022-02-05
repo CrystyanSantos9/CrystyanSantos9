@@ -4,6 +4,8 @@ My name is Crystyan Santos i'm from Brazil (🇧🇷). I've been studying web de
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and  drink a cold beer with my friends (🍺).
 
+[![Crystyan GitHub stats](https://github-readme-stats.vercel.app/api?username=CrystyanSantos9)](https://github.com/CrystyanSantos9/github-readme-stats)
+
 - 🌱 I’m currently learning 
 ## JS 
 ## REACT 
